@@ -35,3 +35,6 @@ build/
 
 ### ENV FILES ###
 .env
+
+### APP PROPERTIES ###
+/Users/sameruga/Desktop/learning/java-spring/moviesapi/src/main/resources/application.properties
